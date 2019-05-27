@@ -1,5 +1,5 @@
 # feature-flag-poc
-Just some skeleton code for how one might/could implement a rougg library for storing and retrieving the value of feature-flags.
+Just some skeleton code for how one might/could implement a rough library for storing and retrieving the value of feature-flags.
 
 TODO:
 - There is no logic for how to read and store data in the database
